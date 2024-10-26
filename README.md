@@ -1,6 +1,6 @@
 # LinkdFund
 
-A ledger of influence and intent, where actions speak in tokens and transparency is not an option but a rule. For those who know, it keeps things balanced.
+A ledger of influence and intent, where actions speak in tokens and transparency, is not an option but a rule; it keeps things balanced.
 
 ## Overview
 
