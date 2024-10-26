@@ -1,10 +1,10 @@
-# ClearFund
+# LinkdFund
 
 A ledger of influence and intent, where actions speak in tokens and transparency is not an option but a rule. For those who know, it keeps things balanced.
 
 ## Overview
 
-ClearFund is a blockchain-based campaign financing platform designed to enhance transparency and accountability in fundraising. By leveraging the immutability and transparency of blockchain technology, ClearFund provides a trustless environment for campaign contributions and expenditures.
+LinkdFund is a blockchain-based campaign financing platform designed to enhance transparency and accountability in fundraising. By leveraging the immutability and transparency of blockchain technology, LinkdFund provides a trustless environment for campaign contributions and expenditures.
 
 ## Key Features
 
